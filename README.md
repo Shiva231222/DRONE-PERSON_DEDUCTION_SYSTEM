@@ -24,6 +24,5 @@ ML Modules :-
 	Random Forest
 	CNN
 
-4.	Radar + AI (ADVANCE DEFENCE GRADE)
 •	Rader deduct objects
 •	All classifiers drones V/S Birds
